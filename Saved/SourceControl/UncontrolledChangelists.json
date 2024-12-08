@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/ExtrooperAlpha/Content/__ExternalActors__/Test/FirstPerson/Maps/FirstPersonMap/E/Y1/KVJZLOKLH0TNKTB85M58SX.uasset",
+				"D:/Github/ExtrooperAlpha/Content/BluePrints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/k2/Documents/Unreal Projects/MyProject/ExtrooperAlpha/Content/__ExternalActors__/Map/ThirdPersonMap/5/AC/NOO2224O3U27C8R4M84A0U.uasset",
 				"C:/Users/k2/Documents/Unreal Projects/MyProject/ExtrooperAlpha/Content/__ExternalActors__/Map/ThirdPersonMap/E/5R/BHIDYMYWXFBRZNWZKAAK65.uasset",
 				"C:/Users/k2/Documents/Unreal Projects/MyProject/ExtrooperAlpha/Content/__ExternalActors__/Map/ThirdPersonMap/8/8E/V70Q75RZN403GNZIQOA4VG.uasset",
